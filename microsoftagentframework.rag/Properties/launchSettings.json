@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "microsoftagentframework.rag": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
